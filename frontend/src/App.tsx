@@ -1,7 +1,10 @@
+import Canvas from "./components/Canvas/Canvas.tsx";
+
 function App() {
 
   return (
     <>
+      <Canvas />
     </>
   )
 }
